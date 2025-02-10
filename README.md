@@ -1,2 +1,2 @@
 # Zepto-cafe
-Online food deliveryapplication
+Online food delivery application
